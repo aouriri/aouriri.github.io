@@ -1,2 +1,3 @@
 name: ateanna uriri, professional semiprofessional.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
