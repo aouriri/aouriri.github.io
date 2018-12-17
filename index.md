@@ -2,14 +2,15 @@
 layout: default
 ---
 [link to my resume.](./resume.html)
+[take a look at my projects.](./projects.html)
 [shoot me an email.](mailto:ateauriri@gmail.com)
 [find me on wikipedia.](https://en.wikipedia.org/wiki/User:Auriri)
 
-sem·i·pro·fes·sion·al
-
+**sem·i·pro·fes·sion·al**
 /ˌsemēprəˈfeSHənl/
 
 Having some features of professional work but requiring less knowledge, skill, and judgment. Traditional examples of semiprofessions include social work, journalism, **librarianship**, teaching and nursing.
 
-## HELLO!
-### Welcome to my little slice of the interwebs. I am 
+`whoami`: I currently work as a staff member in what would be considered the "technical services" department of an academic library - troubleshooting issues with our electronic resources being one of my responsibilites. In addition to this, I also assist with our growing data services by helping our community create data management plans to go along with the research. Academically, I'm currently working on my Master of Science in Library Science (MLS) in the hopes on becoming a librarian - particularly, a librarian who works with emerging technology, data science and visualization, and data curation. I'm also partial to DIY technology. This is all to say that while you're not considered a "professional" in librarianship until you receive a MLS, semi- or para-professional staff *can* and do learn and find experiences/opportunities that put them on par with those with a degree (:raised_hand:).
+
+Outside of the all of this stuff, I enjoy Netflix and Hulu, especially, their original programming. I enjoy cooking and eating (mostly eating) food of all kinds. TexMex is my fave. I like learning things - big things, small things, esoteric things - whether I can turn that into a profitable skill or a neat party trick. I *love* a good book and have the bedside stacks to prove it and, of course naïvely, this is why I wanted to become a librarian. Not much else to me. Welcome.
