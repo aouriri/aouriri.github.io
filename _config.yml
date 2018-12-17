@@ -1,4 +1,5 @@
 title: ateanna uriri, professional semiprofessional.
 description: working space to showcase finished projects and learn more about GitHub and programming languages.
+permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-minimal
