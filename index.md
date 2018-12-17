@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-[Link to my resume.](./resume.html)
+[link to my resume.](./resume.html)
 
 ## HELLO!
