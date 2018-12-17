@@ -1,5 +1,7 @@
 ---
 layout: default
+classes:
+  - tag
 ---
 [link to my resume.](./resume.html)
 [here are my projects.](./projects.html)
