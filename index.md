@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-[link to my resume.](./resume.html)
-[here are my projects.](./projects.html)
-[shoot me an email.](mailto:ateauriri@gmail.com)
+[link to my resume ·](./resume.html)
+[here are my projects ·](./projects.html)
+[shoot me an email ·](mailto:ateauriri@gmail.com)
 [find me on wikipedia.](https://en.wikipedia.org/wiki/User:Auriri)
-[i have thoughts...](./_posts.html)
 
 **sem·i·pro·fes·sion·al**
 /ˌsemēprəˈfeSHənl/
