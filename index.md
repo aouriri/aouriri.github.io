@@ -4,7 +4,7 @@ layout: default
 [link to my resume ·](./resume.html)
 [here are my projects ·](./projects.html)
 [shoot me an email ·](mailto:ateauriri@gmail.com)
-[find me on wikipedia.](https://en.wikipedia.org/wiki/User:Auriri)
+[find me on wikipedia](https://en.wikipedia.org/wiki/User:Auriri)
 
 **sem·i·pro·fes·sion·al**
 /ˌsemēprəˈfeSHənl/
