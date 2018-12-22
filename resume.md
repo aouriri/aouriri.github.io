@@ -2,6 +2,7 @@
 layout: default
 ---
 
-## Download a PDF copy of my resume [here]({{ site.url }}/assets/mydoc.pdf).
+[Résumé](assets/output.pdf "UririRésumé PDF")
+## Download a PDF copy of my résumé [here]({{ site.url }}/assets/output.pdf).
 
 [back](./)
