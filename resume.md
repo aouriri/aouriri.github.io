@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Résumé
+
 ![resumepg1](https://github.com/aouriri/aouriri.github.io/raw/master/assets/0001.jpg)
 
 ![resumepg2](https://github.com/aouriri/aouriri.github.io/raw/master/assets/0002.jpg)
