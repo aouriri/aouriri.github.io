@@ -17,7 +17,7 @@ If you would like to take a look at my last draft submitted, click [here]({{ sit
 
 ## 003 - Portal to Texas History Metadata
 
-For a metadata class (INFO 5210), we were tasked with inputting metadata for patents ingested into the UNT [Portal to Texas History](https://texashistory.unt.edu/) database. Below, are the entries I specifically entered metadata for.
+For a metadata class (INFO 5210), we were tasked with inputting metadata for patents ingested into the UNT [Portal to Texas History](https://texashistory.unt.edu/) database. Below, are the entries for which I specifically entered metadata.
 
 [Fruit-Drier ·](https://texashistory.unt.edu/ark:/67531/metapth858263/)
 [Automatic Service-Switch ·](https://texashistory.unt.edu/ark:/67531/metapth858039/)
