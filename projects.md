@@ -34,6 +34,6 @@ This presentation was created to fulfill an assignment requirement for INFO 5223
 
 To take a look at the presentation, click the slide image.
 
-![curation slide]({{ site.url }}/assets/curation.tif)
+[![curation slide]({{ site.url }}/assets/curation.tif)]({{ site.url }}/assets/Curation + Metadata.pdf)
 
 [back](./)
