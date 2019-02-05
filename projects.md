@@ -33,6 +33,6 @@ For a metadata class (INFO 5210), we were tasked with inputting metadata for pat
 This presentation was created to fulfill an assignment requirement for INFO 5223 - Metadata for Information Organization and Retrieval. Students were given a topic and tasked to create a presentation of how their topic employed or benefitted from metadata; my topic was Digital Curation.
 
 To take a look at the presentation, click the slide image.
-
+![curation slide]({{ site.url }}/assets/curation.tif)
 
 [back](./)
