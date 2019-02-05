@@ -34,13 +34,13 @@ This presentation was created to fulfill an assignment requirement for INFO 5223
 
 To take a look at the presentation, *click* the slide image.
 
-[![curation slide]({{ site.url }}/assets/curation.tif)]({{ site.url }}/assets/Curation + Metadata.pdf)
+[![curation slide]({{ site.url }}/assets/curation.jpg)]({{ site.url }}/assets/Curation + Metadata.pdf)
 
 ### Reimagining Data with Deep Maps
 This presentation serves as a digestible look at the research work students had been doing in INFO 5970 - Advanced Topics Seminar in Information Science I. My research topic was employing [Deep Mapping](https://en.wikipedia.org/wiki/Deep_map), using [Activity Theory](https://en.wikipedia.org/wiki/Activity_theory), as a means to reuse or reimagine available data. I briefly explain the purpose of my research, a possible research question, and background on the terms/topics of my research.
 
 To take a look at the presentation, *click* the slide image.
 
-[![reimagining data]({{ site.url }}/assets/deepmaps.tif)]({{ site.url }}/assets/ReimaginingDeepMaps.pdf)
+[![reimagining data]({{ site.url }}/assets/deepmaps.jpg)]({{ site.url }}/assets/ReimaginingDeepMaps.pdf)
 
 [back](./)
