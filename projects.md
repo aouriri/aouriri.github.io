@@ -41,6 +41,6 @@ This presentation serves as a digestible look at the research work students had 
 
 To take a look at the presentation, *click* the slide image.
 
-[![reimagining data]({{ site.url }}/assets/deepmaps.tif)]({{ site.url }})/assets/ReimaginingDeepMaps.pdf)
+[![reimagining data]({{ site.url }}/assets/deepmaps.tif)]({{ site.url }}/assets/ReimaginingDeepMaps.pdf)
 
 [back](./)
