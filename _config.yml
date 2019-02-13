@@ -6,3 +6,5 @@ theme: jekyll-theme-minimal
 plugins:
   - jemoji
   - jalapeno
+  - jekyll-author-page
+  - jekyll-author-pages
