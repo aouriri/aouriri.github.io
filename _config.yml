@@ -5,5 +5,4 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jemoji
-  - jekyll-paginate
-  - jekyll-titles-from-headings
+  - j1m_search
