@@ -43,4 +43,10 @@ To take a look at the presentation, *click* the slide image.
 
 [![reimagining data]({{ site.url }}/assets/deepmaps.jpg)]({{ site.url }}/assets/ReimaginingDeepMaps.pdf)
 
+
+### Wikipedia (pro tem)
+<a href="https://outreachdashboard.wmflabs.org/courses/AfroCROWD,_Schomburg_Center,_Wikimedia_NYC/Schomburg_Center_Black_History_Month_Wikipedia_Edit-a-thon_with_AfroCROWD_(February_16,_2019)/home">Schomburg Center Black History Month Wikipedia Edit-a-thon with AfroCROWD</a><!-- This is optional -->
+<iframe src="https://outreachdashboard.wmflabs.org/embed/course_stats/AfroCROWD,_Schomburg_Center,_Wikimedia_NYC/Schomburg_Center_Black_History_Month_Wikipedia_Edit-a-thon_with_AfroCROWD_(February_16,_2019)/home" style="width:100%;border:0px none transparent;"></iframe>
+
+
 [back](./)
