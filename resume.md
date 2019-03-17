@@ -6,6 +6,6 @@ layout: default
 
 ![resumepg2](https://github.com/aouriri/aouriri.github.io/raw/master/assets/0002.jpg)
 
-## Download a PDF copy of my résumé [here]({{ site.url }}/assets/output.pdf).
+## Download a PDF copy of my résumé [here]({{ site.url }}/assets/resume.pdf).
 
 [back](./)
