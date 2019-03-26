@@ -60,5 +60,8 @@ In honor of the [ALCTS Preservation Week](http://www.ala.org/alcts/preservationw
   - [ ] find a CMS that my family members can view the images and even share stories and/or comments about them
 - [ ] Rinse and repeat for other contributed photos
 
+I'm just gonna leave this here for encouragement. 
+![Alt Text](https://media.giphy.com/media/cYA2ClBxQZuiQ/giphy.gif)
+
 
 [back](./)
