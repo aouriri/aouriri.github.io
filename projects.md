@@ -61,6 +61,7 @@ In honor of the [ALCTS Preservation Week](http://www.ala.org/alcts/preservationw
 - [ ] Rinse and repeat for other contributed photos
 
 I'm just gonna leave this here for encouragement. 
+
 ![Alt Text](https://media.giphy.com/media/cYA2ClBxQZuiQ/giphy.gif)
 
 
