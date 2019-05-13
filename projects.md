@@ -43,6 +43,12 @@ To take a look at the presentation, *click* the slide image.
 
 [![reimagining data]({{ site.url }}/assets/deepmaps.jpg)]({{ site.url }}/assets/ReimaginingDeepMaps.pdf)
 
+### Managing the Humanities: Research Data Management in the Arts & Humanities
+Created to accompany my final paper (and for extra credit), this presentation serves as a summary for the topic of managing research data from the different disciplines in the arts and humantities. Looking mainly to UK services and tools, I examined how librarians, data managers, and data librarians are working to educate and support researchers in the arts & humanities on how to manage their data.
+
+To take a look at the presentation, *click* the slide image.
+
+[![managinghumanities]({{ site.url }}/assets/managinghumanities.jpg)]({{ site.url }}/assets/ManagingtheHumanities.pdf)
 
 ## 005 - Wikipedia 
 Since the beginning of 2018, I've done my little part to make Wikipedia articles more reputable. Thanks to the help of a co-worker who was very much into Wikipedia, I've learned how to add citations and edit/proofread articles. I've participated in #1Lib1Ref, and other edit-a-thons, including the <a href="https://outreachdashboard.wmflabs.org/courses/AfroCROWD,_Schomburg_Center,_Wikimedia_NYC/Schomburg_Center_Black_History_Month_Wikipedia_Edit-a-thon_with_AfroCROWD_(February_16,_2019)/home">Schomburg Center Black History Month Wikipedia Edit-a-thon with AfroCROWD</a>. During this particular edit-a-thon, I've joined Women in Red ([WiR](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red)) with the hopes of creating my own article on author and scholar Chikwenye Okonjo Ogunyemi. 
