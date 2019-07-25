@@ -10,4 +10,4 @@ plugins:
 url:                http://aouriri.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+permalink:          blog/:year/:month/:day/:title.html
