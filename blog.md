@@ -17,4 +17,4 @@ permalink: /blog/
 </div>
 
 
-[back](./)
+[back](aouriri.github.io)
