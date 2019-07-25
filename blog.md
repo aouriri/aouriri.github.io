@@ -1,6 +1,5 @@
 ---
 title: blog.
-permalink: /blog/
 ---
 ### **many thoughts.**
 
@@ -17,4 +16,4 @@ permalink: /blog/
 </div>
 
 
-[back](aouriri.github.io)
+[back](./)
