@@ -5,7 +5,7 @@ layout: default
 [here are my projects ·](./projects.html)
 [shoot me an email ·](mailto:ateauriri@gmail.com)
 [find me on wikipedia ·](https://en.wikipedia.org/wiki/User:Auriri)
-[many thoughts (blog)](./blog/)
+[many thoughts (blog)](./blog.html)
 
 **sem·i·pro·fes·sion·al**
 /ˌsemēprəˈfeSHənl/
