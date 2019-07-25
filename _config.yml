@@ -5,3 +5,9 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jemoji
+
+# URL
+url:                http://aouriri.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
