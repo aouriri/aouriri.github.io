@@ -2,7 +2,7 @@
 title: blog.
 permalink: /blog/
 ---
-### **many thoughts**
+### **many thoughts.**
 
 <div class="content list">
   {% for post in site.posts %}
