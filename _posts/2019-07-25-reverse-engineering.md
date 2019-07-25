@@ -1,5 +1,6 @@
 ---
 title: random thought: reverse engineering
+date: 2019-07-25
 categories: blog
 ---
 
