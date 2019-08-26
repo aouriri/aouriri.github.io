@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://github.com/aouriri/aouriri.github.io/blob/master/assets/foaf.rdf"/>
 [link to my resume ·](./resume.html)
 [here are my projects ·](./projects.html)
 [shoot me an email ·](mailto:ateauriri@gmail.com)
