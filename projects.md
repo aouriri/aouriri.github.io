@@ -89,11 +89,11 @@ During my journey of learning XML and RDF-based systems, I've learned, among man
       <span property="foaf:name">Ateanna Uriri</span> maintains a site/blog called
       <a rel="foaf:weblog" href="https://aouriri.github.io/">ateanna uriri, professional semiprofessional.</a>
       She works at
-      <a rel="foaf:workplaceHomepage" href="https://www.uta.edu/">University of Texas at Arlington</a>
-      <a rel="foaf:workInfoHomepage" href="https://library.uta.edu/staff">University of Texas at Arlington Libraries staff page</a>
-      and went to school at the following institutions
+      <a rel="foaf:workplaceHomepage" href="https://www.uta.edu/">University of Texas at Arlington</a>, specifically for the
+      <a rel="foaf:workInfoHomepage" href="https://library.uta.edu/staff">University of Texas at Arlington Libraries</a>
+      and went to school at the following institutions:
       <a rel="foaf:schoolHomepage" href="https://www.unt.edu">University of North Texas</a>
-      <a rel="foaf:schoolHomepage" href="https://www.txstate.edu/">Texas State University - San Marcos</a>
+      <a rel="foaf:schoolHomepage" href="https://www.txstate.edu/">Texas State University - San Marcos</a>.
 
       <!-- accounts stuff -->
       
@@ -101,8 +101,8 @@ During my journey of learning XML and RDF-based systems, I've learned, among man
       <span rel="foaf:holdsAccount">
         <span typeof="foaf:OnlineAccount">
           <a rel="foaf:accountServiceHomepage" href="https://en.wikipedia.org">Wikipedia</a>
-          under the user name '
-          <span property="foaf:accountName">Auriri</span>'.
+          under the user name
+          '<span property="foaf:accountName">Auriri</span>'.
         </span>
       </span>
       She also has an 
