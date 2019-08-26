@@ -94,8 +94,6 @@ During my journey of learning XML and RDF-based systems, I've learned, among man
       and went to school at the following institutions:
       <a rel="foaf:schoolHomepage" href="https://www.unt.edu">University of North Texas</a>
       <a rel="foaf:schoolHomepage" href="https://www.txstate.edu/">Texas State University - San Marcos</a>.
-
-      <!-- accounts stuff -->
       
       She adds and edits stuff sometimes on 
       <span rel="foaf:holdsAccount">
