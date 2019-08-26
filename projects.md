@@ -77,6 +77,8 @@ I was fortunate enough to have the chance to enroll in what was, at the time, an
 
 
 ## 008 - Friend of a Friend (FOAF) profile
+
+Quick 
 <html xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <head>
     <title>Ateanna Uriri's profile</title>
@@ -84,28 +86,30 @@ I was fortunate enough to have the chance to enroll in what was, at the time, an
   </head>
   <body>
     <div about="#me" typeof="foaf:Person">
-      <span property="foaf:name">Ateanna Uriri</span>
+      <span property="foaf:name">Ateanna Uriri</span> maintains a site/blog called
       <a rel="foaf:weblog" href="https://aouriri.github.io/">ateanna uriri, professional semiprofessional.</a>
-
-      <span property="foaf:mbox_sha1sum">3fdf8c2115cc795c16088bdba9fe6ec6b02fc476</span>
+      She works at
       <a rel="foaf:workplaceHomepage" href="https://www.uta.edu/">University of Texas at Arlington</a>
       <a rel="foaf:workInfoHomepage" href="https://library.uta.edu/staff">University of Texas at Arlington Libraries staff page</a>
+      and went to school at the following institutions
       <a rel="foaf:schoolHomepage" href="https://www.unt.edu">University of North Texas</a>
       <a rel="foaf:schoolHomepage" href="https://www.txstate.edu/">Texas State University - San Marcos</a>
 
       <!-- accounts stuff -->
-
+      She adds and edits stuff sometimes on 
       <span rel="foaf:holdsAccount">
         <span typeof="foaf:OnlineAccount">
           <a rel="foaf:accountServiceHomepage" href="https://en.wikipedia.org">Wikipedia</a>
-          <span property="foaf:accountName">Auriri</span>
+          under the user name '
+          <span property="foaf:accountName">Auriri</span>'.
         </span>
       </span>
-
+      She hopes to be able to use her 
       <span rel="foaf:holdsAccount">
         <span typeof="foaf:OnlineAccount">
           <a rel="foaf:accountServiceHomepage" href="https://orcid.org/">ORCID</a>
-          <span property="foaf:accountName">0000-0003-2349-4800</span>
+          and decorate many a paper using the ID '
+          <span property="foaf:accountName">0000-0003-2349-4800</span>'.
         </span>
       </span>
 
