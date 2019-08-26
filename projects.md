@@ -77,7 +77,7 @@ I was fortunate enough to have the chance to enroll in what was, at the time, an
 
 
 ## 008 - Friend of a Friend (FOAF) profile
-During my journey of learning XML and RDF-based systems, I've learned, among many things, about the Friend of a Friend (FOAF) ontology. *According to Wikipedia*, a "FOAF (an acronym of friend of a friend) is a machine-readable ontology describing persons, their activities and their relations to other people and objects. Anyone can use FOAF to describe themselves. FOAF allows groups of people to describe social networks without the need for a centralised database." I thought it would be a fun exercise to create an HTML version of a FOAF profile, even though a lot of this information can be found elsewhere on here. I've added some human-readable information that allows the information to flow better, turning each line of code into a digestible paragraph.
+During my journey of learning XML and RDF-based systems, I've learned, among many things, about the Friend of a Friend (FOAF) ontology. *According to Wikipedia*, a "FOAF (an acronym of friend of a friend) is a machine-readable ontology describing persons, their activities and their relations to other people and objects. Anyone can use FOAF to describe themselves. FOAF allows groups of people to describe social networks without the need for a centralised database." I thought it would be a fun exercise to create an HTML version of a FOAF profile, even though a lot of this information can be found elsewhere on here. I've added some human-readable information that allows the information to flow better, turning each line of code into a digestible paragraph. To see my profile as HTML, click the 'Raw' button for this file.
 
 <html xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <head>
