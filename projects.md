@@ -100,15 +100,15 @@ During my journey of learning XML and RDF-based systems, I've learned, among man
         <span typeof="foaf:OnlineAccount">
           <a rel="foaf:accountServiceHomepage" href="https://en.wikipedia.org">Wikipedia</a>
           under the user name
-          '<span property="foaf:accountName">Auriri</span>'.
+          <span property="foaf:accountName">Auriri</span>.
         </span>
       </span>
       She also has an 
       <span rel="foaf:holdsAccount">
         <span typeof="foaf:OnlineAccount">
           <a rel="foaf:accountServiceHomepage" href="https://orcid.org/">ORCID</a>
-          ID, but doesn't have any fabulous articles/works (yet) attached to the ID '
-          <span property="foaf:accountName">0000-0003-2349-4800</span>'.
+          ID, but doesn't have any fabulous articles/works (yet) attached to the ID
+          '<span property="foaf:accountName">0000-0003-2349-4800</span>'.
         </span>
       </span>
   </div>
