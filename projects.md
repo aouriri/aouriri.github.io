@@ -77,6 +77,6 @@ I was fortunate enough to have the chance to enroll in what was, at the time, an
 
 
 ## 008 - Friend of a Friend (FOAF) profile
-[FOAF Profile]({{ site.url }}/assets/foaf.rdf)
+
 
 [back](./)
