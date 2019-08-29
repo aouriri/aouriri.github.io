@@ -79,39 +79,5 @@ I was fortunate enough to have the chance to enroll in what was, at the time, an
 ## 008 - Friend of a Friend (FOAF) profile
 During my journey of learning XML and RDF-based systems, I've learned, among many things, about the Friend of a Friend (FOAF) ontology. *According to Wikipedia*, a "FOAF (an acronym of friend of a friend) is a machine-readable ontology describing persons, their activities and their relations to other people and objects. Anyone can use FOAF to describe themselves. FOAF allows groups of people to describe social networks without the need for a centralised database." I thought it would be a fun exercise to create an HTML version of a FOAF profile, even though a lot of this information can be found elsewhere on here. I've added some human-readable information that allows the information to flow better, turning each line of code into a digestible paragraph. To see my profile as HTML, click the 'Raw' button for this file.
 
-<html xmlns:foaf="http://xmlns.com/foaf/0.1/">
-  <head>
-    <title>Ateanna Uriri's profile</title>
-    <link rel="foaf:primaryTopic foaf:maker" href="#me" />    
-  </head>
-  <body>
-    <div about="#me" typeof="foaf:Person">
-      <span property="foaf:name">Ateanna Uriri</span> maintains a site/blog called
-      <a rel="foaf:weblog" href="https://aouriri.github.io/">ateanna uriri, professional semiprofessional.</a>
-      She works at
-      <a rel="foaf:workplaceHomepage" href="https://www.uta.edu/">University of Texas at Arlington</a>, specifically for the
-      <a rel="foaf:workInfoHomepage" href="https://library.uta.edu/staff">University of Texas at Arlington Libraries</a>
-      and went to school at the following institutions:
-      <a rel="foaf:schoolHomepage" href="https://www.unt.edu">University of North Texas</a>
-      <a rel="foaf:schoolHomepage" href="https://www.txstate.edu/">Texas State University - San Marcos</a>.
-      She adds and edits stuff sometimes on 
-      <span rel="foaf:holdsAccount">
-        <span typeof="foaf:OnlineAccount">
-          <a rel="foaf:accountServiceHomepage" href="https://en.wikipedia.org">Wikipedia</a>
-          under the user name
-          '<span property="foaf:accountName">Auriri</span>'.
-        </span>
-      </span>
-      She also has an 
-      <span rel="foaf:holdsAccount">
-        <span typeof="foaf:OnlineAccount">
-          <a rel="foaf:accountServiceHomepage" href="https://orcid.org/">ORCID</a>
-          ID, but doesn't have any fabulous articles/works (yet) attached to the ID
-          '<span property="foaf:accountName">0000-0003-2349-4800</span>'.
-        </span>
-      </span>
-  </div>
-  </body>
-</html>
 
 [back](./)
