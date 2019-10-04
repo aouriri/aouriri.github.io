@@ -6,7 +6,7 @@ layout: default
 [shoot me an email ·](mailto:ateauriri@gmail.com)
 [find me on wikipedia](https://en.wikipedia.org/wiki/User:Auriri)
 
-**sem·i·pro·fes·sion·al**
+**sem·i·pro·fes·sion·al**<sup>[1](https://en.wikipedia.org/wiki/Semiprofession#cite_ref-1)</sup>
 /ˌsemēprəˈfeSHənl/
 
 Having some features of professional work but requiring less knowledge, skill, and judgment. Traditional examples of semiprofessions include social work, journalism, **librarianship**, teaching and nursing.
