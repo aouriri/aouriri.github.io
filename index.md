@@ -2,7 +2,7 @@
 layout: default
 ---
 [link to my resume ·](./resume.html)
-[here are my projects ·](https://aouriri.github.io/blog/)
+[here are my projects ·](./projects.html)
 [shoot me an email ·](mailto:ateauriri@gmail.com)
 [find me on wikipedia](https://en.wikipedia.org/wiki/User:Auriri)
 
