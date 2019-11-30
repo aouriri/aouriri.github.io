@@ -7,6 +7,7 @@ Below are some of the certificates I've obtained from professional development c
 
 ### University of Texas at Arlington-flavored Libraries Resilience Training
 ![resilience certificate](./assets/resilience certificate.jpg)
+
 [Libraries Resilience Training (University of Pennsylvania)](https://ppc.sas.upenn.edu/services/penn-resilience-training)
 
 
