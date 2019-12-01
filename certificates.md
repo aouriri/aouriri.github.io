@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# Professional Development Certificates
+### (also known as "proof I participated in/did a thing.")
+
 Below are some of the certificates I've obtained from professional development courses and workshops. Where possible, I've included a link to information about the course, program, or workshop with which the certificate is associated.
 
 
