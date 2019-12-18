@@ -19,7 +19,7 @@ Below are some of the certificates I've obtained from professional development c
 
 ### [Certificate in XML & RDF-based Systems - Library Juice Academy](https://libraryjuiceacademy.com/certificate-xml-rdf.php)
 
-![intro to XML](./assets/IntroXML certificate.jpg)
+![Introduction to XML](./assets/IntroXML certificate.jpg)
 
 [Introduction to XML](https://libraryjuiceacademy.com/019-intro-xml.php)
 
@@ -30,6 +30,14 @@ Below are some of the certificates I've obtained from professional development c
 ![SPARQL](./assets/SPARQL certificate.jpg)
 
 [SPARQL Fundamentals I](https://libraryjuiceacademy.com/055-SPARQL.php)
+
+![Introduction to RDF](./assets/IntroRDF_certificate.jpg)
+
+[Introduction to RDF](https://www.libraryjuiceacademy.com/020-intro-semantic-web.php)
+
+![Metadata Design](./assets/MetadataDesign_certificate.jpg)
+
+[Metadata Design](https://www.libraryjuiceacademy.com/105-metadata-design.php)
 
 
 ### University of Texas at Arlington-flavored Libraries Resilience Training
