@@ -5,7 +5,7 @@ layout: default
 [here are my projects ·](https://aouriri.github.io/blog/)
 [tweet me ·](https://twitter.com/ao_uriri)
 [shoot me an email ·](mailto:ateauriri@gmail.com)
-[find me on wikipedia ·](https://en.wikipedia.org/wiki/User:Auriri)
+[find me on wikipedia](https://en.wikipedia.org/wiki/User:Auriri)
 
 **sem·i·pro·fes·sion·al**
 /ˌsemēprəˈfeSHənl/ <sup>[[1]](https://en.wikipedia.org/wiki/Semiprofession#cite_ref-1)</sup>
