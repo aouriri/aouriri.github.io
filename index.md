@@ -7,11 +7,6 @@ layout: default
 [shoot me an email ·](mailto:ateauriri@gmail.com)
 [find me on wikipedia](https://en.wikipedia.org/wiki/User:Auriri)
 
-**sem·i·pro·fes·sion·al**
-/ˌsemēprəˈfeSHənl/ <sup>[[1]](https://en.wikipedia.org/wiki/Semiprofession#cite_ref-1)</sup>
-
-Having some features of professional work but requiring less knowledge, skill, and judgment. Traditional examples of semiprofessions include social work, journalism, **librarianship**, teaching and nursing.
-
 `whoami`: I currently work as the metadata librarian for the University of Texas at Rio Grande Valley. Academically, I've recently received my Master of Science in Library Science (MLS) with professional interests in emerging technologies, digital humanities, data science and visualization, metadata, semantic web/linked data and data curation. While I've completed my formal education, I'm always looking for development opportunities. I'm also partial to DIY technology.
 
 Outside of the all of this stuff, I enjoy Netflix and Hulu, especially their original programming. I enjoy cooking and eating (mostly eating) food of all kinds. TexMex is my fave. I like learning things - big things, small things, esoteric things - whether I can turn that into a profitable skill or a neat party trick. I *love* a good book and have the bedside stacks to prove it and, of course naïvely, this is why I wanted to become a librarian. Not much else to me. **Welcome.** :wave:
