@@ -4,8 +4,7 @@ layout: default
 [link to my resume ·](./resume.html)
 [here are my projects ·](https://aouriri.github.io/blog/)
 [tweet me ·](https://twitter.com/ao_uriri)
-[shoot me an email ·](mailto:ateauriri@gmail.com)
-[find me on wikipedia](https://en.wikipedia.org/wiki/User:Auriri)
+[shoot me an email](mailto:ateauriri@gmail.com)
 
 `whoami`: I currently work as the metadata librarian for the University of Texas at Rio Grande Valley. Academically, I've recently received my Master of Science in Library Science (MLS) with professional interests in emerging technologies, digital humanities, data science and visualization, metadata, semantic web/linked data and data curation. While I've completed my formal education, I'm always looking for development opportunities. I'm also partial to DIY technology.
 
