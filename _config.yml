@@ -1,6 +1,9 @@
 title: ateanna uriri, library person.
 description: work space to showcase (mostly) all of my things and thoughts.
 
+markdown: kramdown
+style: kjhealy
+
 theme: jekyll-theme-minimal
 
 plugins:
