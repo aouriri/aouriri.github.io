@@ -1,8 +1,6 @@
 ---
 layout: cv
 title: Ateanna Uriri's CV
-markdown: kramdown
-style: kjhealy
 ---
 # Ateanna Uriri
 Metadata Librarian, DIY Tech Enthusiast, Plant Parent.
