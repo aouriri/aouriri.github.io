@@ -14,7 +14,7 @@ Metadata Librarian, DIY Tech Enthusiast, Plant Parent.
 
 ### Skills
 
-HTML, CSS, Python, R, XML \& RDF-based systems, Git, GitHub, LaTeX, Wikipedia, Omeka, Scalar, Tableau, SQL, SPARQL, Oxygen XML Editor, OpenRefine
+HTML, CSS, Python, R, XML & RDF-based systems, Git, GitHub, LaTeX, Wikipedia, Omeka, Scalar, Tableau, SQL, SPARQL, Oxygen XML Editor, OpenRefine
 
 ### Research interests
 
