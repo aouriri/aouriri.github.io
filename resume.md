@@ -10,7 +10,7 @@ Metadata Librarian, DIY Tech Enthusiast, Plant Parent.
 | <a href="https://github.com/aouriri">My GitHub profile</a>
 </div>
 
-</br>
+<br>
 
 
 ### Skills
@@ -103,11 +103,11 @@ __Texas State University - San Marcos, San Marcos__
 
 - Bachelor of Arts, International Studies - International Relations
 
-</br>
+<br>
 
-### Download a PDF copy of my resume [here](https://aouriri.github.io/assets/resume.pdf).
+#### Download a PDF copy of my resume [here](https://aouriri.github.io/assets/resume.pdf).
 
-</br>
+<br>
 
 
 [back](./)
