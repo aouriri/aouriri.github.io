@@ -21,6 +21,7 @@ HTML, CSS, Python, R, XML & RDF-based systems, Git, GitHub, LaTeX, Wikipedia, Om
 
 digital curation, metadata, data analysis, data management, digital humanities, emerging technologies
 
+<br>
 
 ## Developmental Activities
 
@@ -51,9 +52,9 @@ Uriri, A. This is my First One: Finding and Building Community at RDAP Summit 20
 
 `2022`
 
-**Invited Talk:** LEADING Fellow Presentation for UCSD Library's Love Data Week, University of California - San Diego
+**Invited Talk**, LEADING Fellow Presentation for UCSD Library's Love Data Week, University of California - San Diego
 
-**Invited Talk:** LEADING: Data Science Innovation Across Our National Digital Infrastructure, Coalition for Networked Information (CNI) Spring Meeting
+**Invited Talk**, LEADING: Data Science Innovation Across Our National Digital Infrastructure, Coalition for Networked Information (CNI) Spring Meeting
 
 
 ## Experience
