@@ -19,7 +19,7 @@ HTML, CSS, Python, R, XML & RDF-based systems, Git, GitHub, LaTeX, Wikipedia, Om
 
 ### Research interests
 
-Digital curation, metadata, data analysis, data management, digital humanities, emerging technologies
+digital curation, metadata, data analysis, data management, digital humanities, emerging technologies
 
 
 ## Developmental Activities
